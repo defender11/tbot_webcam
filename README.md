@@ -15,5 +15,6 @@ The next step is the decision: create a bot that has one button with a command, 
 0) Need install ffmpeg `sudo apt install ffmpeg`
 1) Copy and rename `.env__sample` to `.env`
 2) Run in current directory: `npm install` 
-3) Fill `.env` file
-4) `npm run dev`
+3) Create telegram bot 
+4) Fill `.env` file
+5) `npm run dev`
